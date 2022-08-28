@@ -28,6 +28,16 @@ We have borrowed our code from following sources, you can also go visit these
 If you find this repository to be helpful please cite us
 
 ```
-To be Done
+@inproceedings{jha:hal-03720737,
+  TITLE = {{Combining Vision and Language Representations for Patch-based Identification of Lexico-Semantic Relations}},
+  AUTHOR = {Jha, Prince and Dias, Ga{\"e}l and Lechervy, Alexis and Moreno, Jos{\'e} G. and Jangra, Anubhav and Pais, Sebasti{\~a}o and Saha, Sriparna},
+  URL = {https://hal.archives-ouvertes.fr/hal-03720737},
+  BOOKTITLE = {{30th ACM International Conference on Multimedia (ACM MM 2022)}},
+  ADDRESS = {Lisbonne, Portugal},
+  YEAR = {2022},
+  MONTH = Oct,
+  HAL_ID = {hal-03720737},
+  HAL_VERSION = {v1},
+}
 ```
 
