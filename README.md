@@ -7,8 +7,7 @@ Prince Jha, Gael Dias, Alexis Lechervy, Jose G. Moreno, Anubhav Jangra, Sebastio
 
 # Dataset
 1. [Text Data](https://drive.google.com/file/d/1wzlwbPbMiqVi7ODk5bSio7Pk3Xxcyi6x/view?usp=sharing)
-2. [Image Data](),We have scrapped the images corresponding to each instance in the text data using BING API. We are still working on the method to open source this data, because of some license issues with the BING API. Maybe, in future we can upload the encoding of images or the urls.
-
+2. [Image Data](jhapks1999@gmail.com),One can contact me directly over email in case you need image data mentioning "Lexico Semantic Relation MultiModal Data" in the subject.
 # References
 I would encourage to read following papers within the given sequence before moving to the code part
 1. [Learning Lexical-Semantic Relations Using Intuitive Cognitive Links](https://dias.users.greyc.fr/publications/ecir2019.pdf)
